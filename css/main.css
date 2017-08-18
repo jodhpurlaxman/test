@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron .container{
+    float: left;
+    width: 70%;
+
+}
+.jumbotron .container1{
+    float: right;
+    width: 30%;
+}
+.footer {
+    float: left;
+    width: 100%;
+    padding-top: 50px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
